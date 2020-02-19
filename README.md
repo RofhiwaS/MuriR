@@ -1,1 +1,1 @@
-# MuriR
+Just another repository
